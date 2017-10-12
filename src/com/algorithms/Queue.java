@@ -13,7 +13,6 @@ public class Queue {
 		queueArray = new long[maxSize];
 		front = 0;
 		rear = -1;
-		size = 0;
 	}
 	
 	public int getSize(){
